@@ -1,0 +1,78 @@
+html{
+    height: %100;
+    
+}
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height:1000px;
+   
+    box-sizing: border-box 2px black;
+    flex: auto;
+    background-color: rgb(222, 250, 240);
+    font-family: 'Shantell Sans', cursive;
+
+
+}
+body {
+    font-family: 'Shantell Sans', cursive;
+   
+
+
+
+}
+div img {
+    display: flex;
+    justify-content: center;
+    float:left;
+    padding-left: 10%;
+    height: 170px;
+    width: 170px;
+    
+   
+
+
+}
+
+div ul {
+
+
+color: orange;
+width: 150px;
+float: left;
+
+}
+div ul li {
+    float: left;
+    color: wheat;
+}
+p {
+    
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    padding: 5%;
+    color: cadetblue;
+}
+h1 {
+
+    padding: 20px;
+    padding-top: auto;
+    margin: auto;
+    width: 25%;
+    color: burlywood;
+    
+
+}
+h2 {
+
+    padding: 20px;
+    padding-top: auto;
+    margin: auto;
+    width: 25%;
+    color: burlywood;
+    
+
+}
